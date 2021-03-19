@@ -1,5 +1,5 @@
 - 👋 Hi, I’m locpv98
-- 👀 I’m interested in Computer Vision
+- 👀 I’m interested in Computer Vision,
 - 🌱 I’m currently learning Python, C/C++, Artificial Intelligence (Computer Vision),...
 - 📫 Contact with me: locpv1998@gmail.com
 
