@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [NAUTILUS](https://cxview.ai/)
 
-- 🌱 I’m working with framework such as **Deepstream, Gstreamer, Pytorch, TensorRT, MLflow, TVM, ONNX, Huggingface**
+- 🌱 I’m working with framework such as **Deepstream, Gstreamer, Pytorch, TensorRT, ONNX, Huggingface**
 
 - 📫 How to reach me **[linkedin](www.linkedin.com/in/lộc-phạm-3a661216b)**
 
