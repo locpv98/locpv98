@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Loc, Pham Van</h1>
 <h3 align="center">AI Engineer @Nautilus </h3>
 
-- 🔭 I’m currently working on [NAUTILUS](https://cxview.ai/)
+- 🔭 I’m currently working on [HANEL](https://www.hanel.com.vn/)
 
 - 🌱 I’m working with framework such as **Deepstream, Gstreamer, Pytorch, TensorRT, ONNX, Huggingface**
 
